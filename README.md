@@ -13,7 +13,7 @@ This demo uses:
 - Web3js
 - Faucet
 
-## Running the demo
+## Running the NFT & DAO demo
 
 To run the demo follow these steps:
 
@@ -41,6 +41,9 @@ To run the demo follow these steps:
     ```
 3. Run the app using `yarn start`
 <br/>
+
+## Running The Consensus Algorithm:
+Refer to the steps in consensus.txt file. TO be run on Linux Systems.
 
 
 ## Useful links
