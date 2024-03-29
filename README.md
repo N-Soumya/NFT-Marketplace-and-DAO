@@ -21,8 +21,8 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/dominionDAO PROVIDER_NAME
-    cd PROVIDER_NAME # Navigate to the new folder.
+    git clone https://github.com/N-Soumya/NFT-Marketplace-and-DAO.git FOLDER_NAME
+    cd FOLDER_NAME # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
 2. Create an Infuria project, copy and paste your key in the spaces below.
@@ -42,9 +42,6 @@ To run the demo follow these steps:
 3. Run the app using `yarn start`
 <br/>
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/dominionDAO/issues). We're here to help ✌️
 
 ## Useful links
 
