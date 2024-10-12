@@ -26,3 +26,31 @@ To run the demo follow these steps:
    ```bash
    git clone https://github.com/Daltonic/dominionDAO PROVIDER_NAME
    cd PROVIDER_NAME # Navigate to the new folder.
+  '''
+2. Install all dependencies:
+  ```bash
+    yarn install
+  ```
+3. Create an Infura project, and copy and paste your key in the spaces below.
+4. Update the .env file with the following details:
+``` bash
+  ENDPOINT_URL=<PROVIDER_URL>
+  SECRET_KEY=<SECRET_PHRASE>
+  DEPLOYER_KEY=<YOUR_PRIVATE_KEY>
+```
+5. Create a CometChat project, and copy and paste your key in the spaces below:
+   ```bash
+   REACT_APP_COMET_CHAT_REGION=<REGION>
+    REACT_APP_COMET_CHAT_APP_ID=<APP_ID>
+    REACT_APP_COMET_CHAT_AUTH_KEY=<AUTH_KEY>
+   ```
+6. Run the app:
+```bash
+  yarn start
+```
+
+## How It Works
+NFT Marketplace: Users can mint and trade NFTs securely.
+DAO: Stakeholders can create and vote on proposals based on their holdings.
+
+
